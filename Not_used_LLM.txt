@@ -1,0 +1,1 @@
+Here, I have just done code in Python not used Bard AI(used for automatically generating the answers and LLM)
